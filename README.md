@@ -58,7 +58,7 @@ If given more time, I would focus on:
 ---
 
 ## 🎮 How to Run Game Directly
-1. Open the file named- Executable.
+1. Open the file named- HookLine WindowsBuild.
 2. Run the Exe file name Hook Life.
 
 ---
