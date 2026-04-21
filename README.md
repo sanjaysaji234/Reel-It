@@ -58,9 +58,8 @@ If given more time, I would focus on:
 ---
 
 ## 🎮 How to Run Game Directly
-1. Download the full repo and then you will see Build.zip file
-2. Extract the Build.zip folder.
-3. Run the Exe file name Hook Life.
+https://drive.google.com/file/d/1rKGvg273LgehSvs6tdJBpbou8FyQPj54/view?usp=sharing
+Download the Zip File and rune the exe file.
 
 ---
 
